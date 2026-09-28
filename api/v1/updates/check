@@ -3,12 +3,12 @@
     "version": "2.1.5",
     "channel": "internal",
     "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.5/QAVerify-Setup-2.1.5-public.exe",
-    "file_size": 315439914,
-    "sha256": "3fd40fd7dc0f28483b85c99b12f08149874394965b017d7d0fe41d9eaf59a30f",
+    "file_size": 315439463,
+    "sha256": "af02a133f09233c76777961e0026e17727a9057a1d7aca7c80b89bbc9976aa35",
     "release_date": "2026-09-28",
     "mandatory": false,
     "min_version": null,
-    "release_notes": "自动更新验证版（含下载流式修复）。"
+    "release_notes": "自动更新验证版（与 2.1.4 同功能，含下载流式修复）。"
   },
-  "signature": "g-aN0SDGvvHtFCjk95tQVdQfhk_gyFn-GiLcgs4GdYcoITuP2t0Qs-k3LazPDHKOwqFx8zhmv4qcSEgq7qQNDw=="
+  "signature": "uSRBClcKvNmYM4J0vD_cq8vUUyl09hrpOdAQEZm-GnV_JB1nzjSHfN5DVfw8YAYtBSnkXhn2_8m-wdL3sbQfCg=="
 }
