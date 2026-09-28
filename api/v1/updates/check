@@ -1,14 +1,14 @@
 {
   "payload": {
-    "version": "2.1.4",
+    "version": "2.1.5",
     "channel": "internal",
-    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.4/QAVerify-Setup-2.1.4-public.exe",
-    "file_size": 315439161,
-    "sha256": "222e15ee30abbda4105efb069d12acf3e35c1d66363e1d849638f70bef83cd80",
+    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.5/QAVerify-Setup-2.1.5-public.exe",
+    "file_size": 315440549,
+    "sha256": "3aae704f312e1a2a1a5ba6a7d5b02d7a82f3f1881928e286e44d5c4475bb4f58",
     "release_date": "2026-09-28",
     "mandatory": false,
     "min_version": null,
-    "release_notes": "设置页新增「一键更新」（检查→下载→安装→退出）；设置内「使用说明」内置。"
+    "release_notes": "自动更新验证版（与 2.1.4 同代码，仅版本号）。"
   },
-  "signature": "5zwlLquXsPWX6hBYYsKTsY0FnDmOmvd8fkUbcjWZEZxG5GiSRfum2Op0_1pVgEGozMmWlGUs-MDgrAepIktZAg=="
+  "signature": "aRJf0jifcaufCv94MXbuIUTOtGzcf_MNFQr09G6Uu0ykseojYRDapfKMXpD65jUAjN_OEEquE-H5zC5HO5pyBQ=="
 }
