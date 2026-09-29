@@ -1,14 +1,14 @@
 {
   "payload": {
-    "version": "2.1.10",
+    "version": "2.1.11",
     "channel": "internal",
-    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.10/QAVerify-Setup-2.1.10-public.exe",
-    "file_size": 300563041,
-    "sha256": "036754f30c03fdbf2c686bba3bc152bd810551f5ad9aef0b29253aeaa9696801",
+    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.11/QAVerify-Setup-2.1.11-public.exe",
+    "file_size": 315455383,
+    "sha256": "b541c235a934d301a8d5c32f11ea44e575d81d7802a536bbe1b3826dee954e24",
     "release_date": "2026-09-29",
     "mandatory": false,
     "min_version": null,
-    "release_notes": "QAVerify 2.1.10 版本发布。"
+    "release_notes": "更新下载改为多连接分段并行，解决 GitHub 大包更新超时失败。"
   },
-  "signature": "Fx8K3Kw3Fu_OVJF9FFruDGWKM5LTMhvk7Zw_GVE7BDpzSC4HS27MT6297NNzYC0pYuyOFNMtK8fq7jz8dE95CA=="
+  "signature": "BtufZ1RH_axNPbAV5_-Cf2SCB9lAnf6J43ZRSG68nSE3Qtn1xo61TyhSK6xL55_cVRGoY0eIlBdLIDoT4WMPDA=="
 }
