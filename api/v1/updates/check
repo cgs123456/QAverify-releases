@@ -1,14 +1,14 @@
 {
   "payload": {
-    "version": "2.1.8",
+    "version": "2.1.9",
     "channel": "internal",
-    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.8/QAVerify-Setup-2.1.8-public.exe",
-    "file_size": 300561966,
-    "sha256": "c03eddca7320e8425b9c935ea0040ac5802f59fb7e63b2f3952b8df9bebdee19",
+    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.9/QAVerify-Setup-2.1.9-public.exe",
+    "file_size": 300561459,
+    "sha256": "8becc085f75b23092be7db79bb9ae380f2e47d450b725fd0f61566cadf042628",
     "release_date": "2026-09-29",
     "mandatory": false,
     "min_version": null,
-    "release_notes": "修复更新 helper 在无控制台环境下等待安装器退出时的卡死问题（tasklist 挂死），改用锁文件轮询并记录安装结果。"
+    "release_notes": "QAVerify 2.1.9 版本发布。"
   },
-  "signature": "qaw1jasuR_6X0i5zk4volQr3Otu3ACyf6WG11dfn3OHT2cYMrScGXtlukE-SkS3m4hvq1oyaTFAgbTUimMqBAw=="
+  "signature": "D1igRu_COikdcayiJSMJrqShXVu3q7oHvPqM6_r3l8QKT3PiMEZcBadaWp766hOXkTwq_CYX0OLUJJsp9lC-DA=="
 }
