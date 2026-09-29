@@ -1,14 +1,14 @@
 {
   "payload": {
-    "version": "2.1.7",
+    "version": "2.1.8",
     "channel": "internal",
-    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.7/QAVerify-Setup-2.1.7-public.exe",
-    "file_size": 300561774,
-    "sha256": "fd32ad5ca049ca3d4dccc0fb175071f90cafa3dace338546b1f2b806f84066d3",
+    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.8/QAVerify-Setup-2.1.8-public.exe",
+    "file_size": 300561966,
+    "sha256": "c03eddca7320e8425b9c935ea0040ac5802f59fb7e63b2f3952b8df9bebdee19",
     "release_date": "2026-09-29",
     "mandatory": false,
     "min_version": null,
-    "release_notes": "修复 Windows 更新 helper 卡死，并记录真实安装结果。"
+    "release_notes": "修复更新 helper 在无控制台环境下等待安装器退出时的卡死问题（tasklist 挂死），改用锁文件轮询并记录安装结果。"
   },
-  "signature": "Ii-oG-RZATNBfTCwed7opelj1CkzSnxYiLIUT5KKfOwOjn6i7iY8QeoZ3OjyGEl44ujynni5XTGp-VHRtRpoDw=="
+  "signature": "qaw1jasuR_6X0i5zk4volQr3Otu3ACyf6WG11dfn3OHT2cYMrScGXtlukE-SkS3m4hvq1oyaTFAgbTUimMqBAw=="
 }
