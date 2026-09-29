@@ -1,14 +1,14 @@
 {
   "payload": {
-    "version": "2.1.6",
+    "version": "2.1.7",
     "channel": "internal",
-    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.6/QAVerify-Setup-2.1.6-public.exe",
-    "file_size": 315447633,
-    "sha256": "abe5190e86162c938938ed6d3faa9764136cc07963dc743e7b658ce11ab41910",
+    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.7/QAVerify-Setup-2.1.7-public.exe",
+    "file_size": 300561774,
+    "sha256": "fd32ad5ca049ca3d4dccc0fb175071f90cafa3dace338546b1f2b806f84066d3",
     "release_date": "2026-09-29",
     "mandatory": false,
     "min_version": null,
-    "release_notes": ""
+    "release_notes": "修复 Windows 更新 helper 卡死，并记录真实安装结果。"
   },
-  "signature": "DUoYpxLWKsURiGOIHW26v6k-v3WYCJs5Io1M78xM30uVh1xA_H2yrGAyvQeuAi0YkGw3lGV8i3V5ofzj0w8zBg=="
+  "signature": "Ii-oG-RZATNBfTCwed7opelj1CkzSnxYiLIUT5KKfOwOjn6i7iY8QeoZ3OjyGEl44ujynni5XTGp-VHRtRpoDw=="
 }
