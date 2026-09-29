@@ -1,14 +1,14 @@
 {
   "payload": {
-    "version": "2.1.9",
+    "version": "2.1.10",
     "channel": "internal",
-    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.9/QAVerify-Setup-2.1.9-public.exe",
-    "file_size": 300561459,
-    "sha256": "8becc085f75b23092be7db79bb9ae380f2e47d450b725fd0f61566cadf042628",
+    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.10/QAVerify-Setup-2.1.10-public.exe",
+    "file_size": 300563041,
+    "sha256": "036754f30c03fdbf2c686bba3bc152bd810551f5ad9aef0b29253aeaa9696801",
     "release_date": "2026-09-29",
     "mandatory": false,
     "min_version": null,
-    "release_notes": "QAVerify 2.1.9 版本发布。"
+    "release_notes": "QAVerify 2.1.10 版本发布。"
   },
-  "signature": "D1igRu_COikdcayiJSMJrqShXVu3q7oHvPqM6_r3l8QKT3PiMEZcBadaWp766hOXkTwq_CYX0OLUJJsp9lC-DA=="
+  "signature": "Fx8K3Kw3Fu_OVJF9FFruDGWKM5LTMhvk7Zw_GVE7BDpzSC4HS27MT6297NNzYC0pYuyOFNMtK8fq7jz8dE95CA=="
 }
