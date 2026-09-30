@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "version": "2.1.16",
+    "channel": "internal",
+    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.16/QAVerify-Setup-2.1.16-public.exe",
+    "file_size": 316549157,
+    "sha256": "1106cb7b81692242e99548c86b2d443c36a7de430dd9c72f60dedbf3ca6230f4",
+    "release_date": "2026-09-30",
+    "mandatory": false,
+    "min_version": null,
+    "release_notes": ""
+  },
+  "signature": "Us2X5dvFzzDypWLX8N5j1CXOvhSAD1PiP_SHfj3PN_rZpVvGrcbJYDzgPTR9pZOpVhi6z0lMGnzEhX-_dYFPCw=="
+}
