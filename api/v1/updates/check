@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "version": "2.1.17",
+    "channel": "internal",
+    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.17/QAVerify-Setup-2.1.17-public.exe",
+    "file_size": 316549026,
+    "sha256": "328c09e31a7ff1647b37ff045023bff79942c52d52b9228da21645af08900774",
+    "release_date": "2026-09-30",
+    "mandatory": false,
+    "min_version": null,
+    "release_notes": "修复：开启系统代理后依旧连不上同步服务的问题（云端读取/记录上报/激活三条出网链路现在统一跟随系统代理）；主账号「子账号记录」不再显示 0 台。同时放宽云端读取与激活的超时，避免把「慢」误判成「离线」。"
+  },
+  "signature": "3TeyaHP_lxKmnkuJDw-FyiP_hhlvTrBGv9jyNoAEQ5_-f8GRMUN6Xrnb90unxMWZBUaC7VQA0wstgxsSQFL9Dw=="
+}
