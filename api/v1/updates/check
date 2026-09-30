@@ -1,14 +1,14 @@
 {
   "payload": {
-    "version": "2.1.19",
+    "version": "2.1.20",
     "channel": "internal",
-    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.19/QAVerify-Setup-2.1.19-public.exe",
-    "file_size": 316552107,
-    "sha256": "c56fe61b57aac13a366894c4785abc6fed7b59dc92fef963be74c6c1044ab6b0",
+    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.20/QAVerify-Setup-2.1.20-public.exe",
+    "file_size": 316553297,
+    "sha256": "0e225ccdf1f227f395be9b6fa80b814d7fae8ac299abdc7c4b0dd3874dfb9eeb",
     "release_date": "2026-09-30",
     "mandatory": false,
     "min_version": null,
-    "release_notes": "自动更新：安装前先等其他 QAVerify 窗口关闭（最多 45 秒，界面写明在等哪个进程号），等不到就明确报错，不再让安装卡住；下载前也先检查，不再把 316MB 花在注定装不上的尝试上。"
+    "release_notes": "自动更新稳定性：安装器启动前多等 3 秒（锁文件消失时进程尚未真正退出，慢机器上会撞上仍被占用的 QAVerify.exe）；安装前先等其他 QAVerify 窗口关闭，等不到就明确报错；下载前也先查，不再把 316MB 花在注定装不上的尝试上。"
   },
-  "signature": "yGSAMi0fbFOEKEUiCwxruxYUHdIQ8lbnnKtBhBo9XF1vownoBq1BQMgBKMIPcbgBAevumvzFJ9aibZfbiKxoDw=="
+  "signature": "LU3xs5pjNfx_49ZKUq4vWE5MxNbjT2QRC0aQi10KpaddsqikhFN4CFAC7kWUyKd9Hk284OglJFziFV6Q2B35DQ=="
 }
