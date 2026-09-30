@@ -1,14 +1,14 @@
 {
   "payload": {
-    "version": "2.1.18",
+    "version": "2.1.19",
     "channel": "internal",
-    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.18/QAVerify-Setup-2.1.18-public.exe",
-    "file_size": 316550814,
-    "sha256": "a3eb2d50ca99321ad75cfab7056487659bcd30c63cd5304035733770f6c77636",
+    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.19/QAVerify-Setup-2.1.19-public.exe",
+    "file_size": 316552107,
+    "sha256": "c56fe61b57aac13a366894c4785abc6fed7b59dc92fef963be74c6c1044ab6b0",
     "release_date": "2026-09-30",
     "mandatory": false,
     "min_version": null,
-    "release_notes": "子账号上报：关闭软件时补发一次未上传记录。此前只有「启动时」和「每 2 分钟」两个时机，短会话（问几条就关）的最后一批要等下次启动才上传。补发失败仍留在本地队列，下次自动重试，云端按记录 id 去重，不会重复计数。"
+    "release_notes": "自动更新：安装前先等其他 QAVerify 窗口关闭（最多 45 秒，界面写明在等哪个进程号），等不到就明确报错，不再让安装卡住；下载前也先检查，不再把 316MB 花在注定装不上的尝试上。"
   },
-  "signature": "nKYMGs0PrPEDJfy6oMZS5_Eveo9TY9BNcl5PPJZQEE6bIpRExvZiwYiYCJ7nYKAmAUd7E0s-Pst2u-74xMcjBg=="
+  "signature": "yGSAMi0fbFOEKEUiCwxruxYUHdIQ8lbnnKtBhBo9XF1vownoBq1BQMgBKMIPcbgBAevumvzFJ9aibZfbiKxoDw=="
 }
