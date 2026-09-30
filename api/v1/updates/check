@@ -1,14 +1,14 @@
 {
   "payload": {
-    "version": "2.1.14",
+    "version": "2.1.15",
     "channel": "internal",
-    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.14/QAVerify-Setup-2.1.14-public.exe",
-    "file_size": 300579999,
-    "sha256": "98b3c4e3eee194b5ce85d588cd0345df8d37a3d878e74fab2e3fa25407e100a9",
+    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.15/QAVerify-Setup-2.1.15-public.exe",
+    "file_size": 315470523,
+    "sha256": "8923a9a267d82eb0a5aef8da7d4538ef675281d4549be5ea0df68a8cca749733",
     "release_date": "2026-09-30",
     "mandatory": false,
     "min_version": null,
-    "release_notes": "自动更新 UAT：功能与 2.1.13 相同，用于验证 2.1.13 到 2.1.14 的正式更新链。"
+    "release_notes": "2.1.15 更新内容：\n1. 一次性激活码：激活时联网登记，首次激活绑定本机；同机重装可重新激活，换机直接拒绝。\n2. 设置页「版本更新」面板显示新版本发布说明。"
   },
-  "signature": "DfKP6GugzBIkWaXq8DHL-jbwZTvd-HTBjAWPHb-JFX6LMKveRt0vhiLcV9lzITnFSP03E_3hcgq36lpudeMMAg=="
+  "signature": "9CYuPYIlpmhKK95PMr-AkMhEFwnFKJclfFPmc8roJIEGZofADSeKeWxuu0dNLER1QrQpLkox1GFgwZMRVgUnBw=="
 }
