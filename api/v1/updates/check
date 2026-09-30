@@ -1,14 +1,14 @@
 {
   "payload": {
-    "version": "2.1.12",
+    "version": "2.1.13",
     "channel": "internal",
-    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.12/QAVerify-Setup-2.1.12-public.exe",
-    "file_size": 315465396,
-    "sha256": "bac5c784da4f8ae10cc3a66ad431f3e3ebaab6be1d2c660c0690052edaa1a3a5",
+    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.13/QAVerify-Setup-2.1.13-public.exe",
+    "file_size": 300579223,
+    "sha256": "2b8f286c312408c84c5334b55d5736c0d64a7400f9c431c98e00bf79240237ab",
     "release_date": "2026-09-30",
     "mandatory": false,
     "min_version": null,
-    "release_notes": "修复更新失败提示与设备身份区分；子账号可从设置中的历史记录查看自己的云端上报，主账号设备列表显示设备名称。"
+    "release_notes": "QAVerify 2.1.13：修复自动更新安装链、完善更新检查提示与稳定性。"
   },
-  "signature": "TGOYMBHcj1NaaAJiDmoB3HdJxl44HYuEobB7jzJ4wOzU3L1NYcE32mt1FHuN-TVo_sZI2CPSSpJHJUXsB-ELBA=="
+  "signature": "-o62fTkHZI0UFmzqaCGm2lTQZWfJsNHGD-Y5xgq7bV54oPqUWVwdtPlCw6cxbnn6F6_PkRMegJXGE3FhRTX9DA=="
 }
