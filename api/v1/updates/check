@@ -1,14 +1,14 @@
 {
   "payload": {
-    "version": "2.1.13",
+    "version": "2.1.14",
     "channel": "internal",
-    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.13/QAVerify-Setup-2.1.13-public.exe",
-    "file_size": 300579223,
-    "sha256": "2b8f286c312408c84c5334b55d5736c0d64a7400f9c431c98e00bf79240237ab",
+    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.14/QAVerify-Setup-2.1.14-public.exe",
+    "file_size": 300579999,
+    "sha256": "98b3c4e3eee194b5ce85d588cd0345df8d37a3d878e74fab2e3fa25407e100a9",
     "release_date": "2026-09-30",
     "mandatory": false,
     "min_version": null,
-    "release_notes": "QAVerify 2.1.13：修复自动更新安装链、完善更新检查提示与稳定性。"
+    "release_notes": "自动更新 UAT：功能与 2.1.13 相同，用于验证 2.1.13 到 2.1.14 的正式更新链。"
   },
-  "signature": "-o62fTkHZI0UFmzqaCGm2lTQZWfJsNHGD-Y5xgq7bV54oPqUWVwdtPlCw6cxbnn6F6_PkRMegJXGE3FhRTX9DA=="
+  "signature": "DfKP6GugzBIkWaXq8DHL-jbwZTvd-HTBjAWPHb-JFX6LMKveRt0vhiLcV9lzITnFSP03E_3hcgq36lpudeMMAg=="
 }
