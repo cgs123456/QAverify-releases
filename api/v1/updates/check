@@ -1,14 +1,14 @@
 {
   "payload": {
-    "version": "2.1.20",
+    "version": "2.1.21",
     "channel": "internal",
-    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.20/QAVerify-Setup-2.1.20-public.exe",
-    "file_size": 316553297,
-    "sha256": "0e225ccdf1f227f395be9b6fa80b814d7fae8ac299abdc7c4b0dd3874dfb9eeb",
-    "release_date": "2026-09-30",
+    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.21/QAVerify-Setup-2.1.21-public.exe",
+    "file_size": 316553309,
+    "sha256": "d3d237e1f83adc81def0bae96a96ca61b75f14aeff90cb6f084c1b5525ec972c",
+    "release_date": "2026-10-01",
     "mandatory": false,
     "min_version": null,
-    "release_notes": "自动更新稳定性：安装器启动前多等 3 秒（锁文件消失时进程尚未真正退出，慢机器上会撞上仍被占用的 QAVerify.exe）；安装前先等其他 QAVerify 窗口关闭，等不到就明确报错；下载前也先查，不再把 316MB 花在注定装不上的尝试上。"
+    "release_notes": "修复卸载后残留 sync.json/license.json；公开安装包不再夹带发货配置，并新增构建守卫防止再次泄漏上传令牌。"
   },
-  "signature": "LU3xs5pjNfx_49ZKUq4vWE5MxNbjT2QRC0aQi10KpaddsqikhFN4CFAC7kWUyKd9Hk284OglJFziFV6Q2B35DQ=="
+  "signature": "981N-e0UmQTKflSfKe7HgizX-MIVkDHpR8Fu9JnZLriwkCRdDNFXSS9MLF0MKjVEPzX1Gf6yVqG2EIohKf_KAQ=="
 }
