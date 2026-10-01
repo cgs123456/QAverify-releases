@@ -1,14 +1,14 @@
 {
   "payload": {
-    "version": "2.1.21",
+    "version": "2.1.22",
     "channel": "internal",
-    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.21/QAVerify-Setup-2.1.21-public.exe",
-    "file_size": 316553309,
-    "sha256": "d3d237e1f83adc81def0bae96a96ca61b75f14aeff90cb6f084c1b5525ec972c",
+    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.22/QAVerify-Setup-2.1.22-public.exe",
+    "file_size": 316550679,
+    "sha256": "af12cc7107482cd958f822e3cc500e1ffcc0df238d1c07b853c5a308ce2c6fd2",
     "release_date": "2026-10-01",
     "mandatory": false,
     "min_version": null,
-    "release_notes": "修复卸载后残留 sync.json/license.json；公开安装包不再夹带发货配置，并新增构建守卫防止再次泄漏上传令牌。"
+    "release_notes": "自动更新改为覆盖当前正在运行的 QAVerify.exe 所在目录，修复多副本/复制目录更新后仍显示旧版；同时保留 2.1.21 的卸载残留清理与公开包构建守卫。"
   },
-  "signature": "981N-e0UmQTKflSfKe7HgizX-MIVkDHpR8Fu9JnZLriwkCRdDNFXSS9MLF0MKjVEPzX1Gf6yVqG2EIohKf_KAQ=="
+  "signature": "QofXKx4lRjuScd0mankHG1xAF1Sa7RLor7D_eplvXInvFlw2kcNBhahotaid3tlOzAPtD8_FyT9RGYo-NNDoDA=="
 }
