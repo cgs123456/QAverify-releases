@@ -2,6 +2,15 @@
   "schema": 1,
   "releases": [
     {
+      "version": "2.1.25",
+      "channel": "internal",
+      "release_date": "2026-10-09",
+      "mandatory": false,
+      "release_notes": "修复同步稳定性：网络波动后记录可正确续传，不会重复占用队列；修复客户端本地队列在某些情况下滞留导致记录重新出现的问题。看板记录删除增加频率保护与完整审计。建议所有用户更新。",
+      "sha256_12": "8465a2e2d005",
+      "file_size": 321751858
+    },
+    {
       "version": "2.1.24",
       "channel": "internal",
       "release_date": "2026-10-09",

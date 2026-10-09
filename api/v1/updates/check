@@ -1,14 +1,14 @@
 {
   "payload": {
-    "version": "2.1.24",
+    "version": "2.1.25",
     "channel": "internal",
-    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.24/QAVerify-Setup-2.1.24-public.exe",
-    "file_size": 321751861,
-    "sha256": "ca73fd06f05ff7d55be25e5d7281037c849d8c11be32487c9240676568a4f674",
+    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.25/QAVerify-Setup-2.1.25-public.exe",
+    "file_size": 321751858,
+    "sha256": "8465a2e2d0055343e43fa7041658838b03af6e496a37f5b53b5b802f990b7794",
     "release_date": "2026-10-09",
     "mandatory": false,
     "min_version": null,
-    "release_notes": "修复上报链路：网络不稳时部分记录可能丢失的问题已解决，同步更可靠；记录明细支持勾选删除；稳定性改进。"
+    "release_notes": "修复同步稳定性：网络波动后记录可正确续传，不会重复占用队列；修复客户端本地队列在某些情况下滞留导致记录重新出现的问题。看板记录删除增加频率保护与完整审计。建议所有用户更新。"
   },
-  "signature": "xRnXd3WWCtp9kdgkPhiHVs5TGwKAaoqb290SNib4ihA0HfOQUPPckSpotdUu7ZXKyNqwZXLR9XDH_11jTEmoDg=="
+  "signature": "OCOr4JXupylIkMQ69RK5Pk2yAyxYOkV5ZpGGnr_41Vmk-TLKFuBfGjnH25xE_e4LrncpmBOTih6qoyszgDCsDg=="
 }
