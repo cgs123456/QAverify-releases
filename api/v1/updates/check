@@ -1,14 +1,14 @@
 {
   "payload": {
-    "version": "2.1.23",
+    "version": "2.1.24",
     "channel": "internal",
-    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.23/QAVerify-Setup-2.1.23-public.exe",
-    "file_size": 321753693,
-    "sha256": "65e3caa174794d4a48c73a144fe2880d394c640b7896e0568df8dd4a7e350ab8",
-    "release_date": "2026-10-05",
+    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.24/QAVerify-Setup-2.1.24-public.exe",
+    "file_size": 321751861,
+    "sha256": "ca73fd06f05ff7d55be25e5d7281037c849d8c11be32487c9240676568a4f674",
+    "release_date": "2026-10-09",
     "mandatory": false,
     "min_version": null,
-    "release_notes": "启动残留门店资料自检：旧版残留会弹窗提示并可一键清理（保留激活与设备标识）。"
+    "release_notes": "修复上报链路：网络不稳时部分记录可能丢失的问题已解决，同步更可靠；记录明细支持勾选删除；稳定性改进。"
   },
-  "signature": "oB6GJRO2VcynO3Vqm4zMVH7y4sGe9BTfFJDEgkfNK1GHYFGC4mSq2FfRY24QUzAC8S48dxvvNcuC8QIAFT6tAg=="
+  "signature": "xRnXd3WWCtp9kdgkPhiHVs5TGwKAaoqb290SNib4ihA0HfOQUPPckSpotdUu7ZXKyNqwZXLR9XDH_11jTEmoDg=="
 }

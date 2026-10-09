@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "releases": [
+    {
+      "version": "2.1.24",
+      "channel": "internal",
+      "release_date": "2026-10-09",
+      "mandatory": false,
+      "release_notes": "修复上报链路：网络不稳时部分记录可能丢失的问题已解决，同步更可靠；记录明细支持勾选删除；稳定性改进。",
+      "sha256_12": "ca73fd06f05f",
+      "file_size": 321751861
+    }
+  ]
+}
