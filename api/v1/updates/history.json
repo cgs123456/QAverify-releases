@@ -2,6 +2,15 @@
   "schema": 1,
   "releases": [
     {
+      "version": "2.1.26",
+      "channel": "internal",
+      "release_date": "2026-10-10",
+      "mandatory": false,
+      "release_notes": "更新检查失败时不再谎报『已是最新』：源不可达/清单被拒/服务异常都会如实提示（P1-7）。同时清理版本号硬编码。",
+      "sha256_12": "7b560aec7d5a",
+      "file_size": 321756700
+    },
+    {
       "version": "2.1.25",
       "channel": "internal",
       "release_date": "2026-10-09",
