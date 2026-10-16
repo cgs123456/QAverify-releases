@@ -2,6 +2,15 @@
   "schema": 1,
   "releases": [
     {
+      "version": "2.1.27",
+      "channel": "internal",
+      "release_date": "2026-10-16",
+      "mandatory": false,
+      "release_notes": "界面改版：设置抽屉与全局「控制台卡片」外观；上报记录带门店身份，看板多门店可分辨；修复题库整理页表单不同步与门店写入锁误判（偶发导入被拒）。建议所有用户更新。",
+      "sha256_12": "03aea9101258",
+      "file_size": 321954165
+    },
+    {
       "version": "2.1.26",
       "channel": "internal",
       "release_date": "2026-10-10",

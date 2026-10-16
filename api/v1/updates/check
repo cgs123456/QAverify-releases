@@ -1,14 +1,14 @@
 {
   "payload": {
-    "version": "2.1.26",
+    "version": "2.1.27",
     "channel": "internal",
-    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.26/QAVerify-Setup-2.1.26-public.exe",
-    "file_size": 321756700,
-    "sha256": "7b560aec7d5acb94ddd53581c94fd2d8952284bc71da40e5c1d6ced1f811925f",
-    "release_date": "2026-10-10",
+    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.27/QAVerify-Setup-2.1.27-public.exe",
+    "file_size": 321954165,
+    "sha256": "03aea91012581c5772bee8647366fb9a44dc2e9f3c572341ee69ec6f2f70362e",
+    "release_date": "2026-10-16",
     "mandatory": false,
     "min_version": null,
-    "release_notes": "更新检查失败时不再谎报『已是最新』：源不可达/清单被拒/服务异常都会如实提示（P1-7）。同时清理版本号硬编码。"
+    "release_notes": "界面改版：设置抽屉与全局「控制台卡片」外观；上报记录带门店身份，看板多门店可分辨；修复题库整理页表单不同步与门店写入锁误判（偶发导入被拒）。建议所有用户更新。"
   },
-  "signature": "jHyvMYkvGr9oiXEVNMptB_Pz2LB8HAxbycf1UsZcGzpweq03f1OxiD1Nzp-pv3nRxUfzxVJ8ga7KkKTlorcuBQ=="
+  "signature": "t9u8HFoa8joMGlEssoUCJdOCsksUp4sUwTw_jVD2ZqaE_stPX6p1l4l2aL0wUtudeFiQm-zsrqVy0RZh48MiAg=="
 }
