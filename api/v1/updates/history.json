@@ -2,6 +2,15 @@
   "schema": 1,
   "releases": [
     {
+      "version": "2.1.28",
+      "channel": "internal",
+      "release_date": "2026-10-25",
+      "mandatory": false,
+      "release_notes": "本地优先转写引擎上线:说完即出字(毫秒级),断网仍可答题,安装包内置本地模型。复合长对话全链路修复:逐题拆分匹配、无主语追问继承语境、防主体漂移误配。同音听错自动救援与转写词表扩充。语音更早出答案。提词器长批次自动定位、拒答提示分场景。建议所有用户更新。",
+      "sha256_12": "a4d61bc2382f",
+      "file_size": 906736214
+    },
+    {
       "version": "2.1.27",
       "channel": "internal",
       "release_date": "2026-10-16",
