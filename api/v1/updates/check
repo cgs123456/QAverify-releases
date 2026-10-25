@@ -1,14 +1,14 @@
 {
   "payload": {
-    "version": "2.1.27",
+    "version": "2.1.28",
     "channel": "internal",
-    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.27/QAVerify-Setup-2.1.27-public.exe",
-    "file_size": 321954165,
-    "sha256": "03aea91012581c5772bee8647366fb9a44dc2e9f3c572341ee69ec6f2f70362e",
-    "release_date": "2026-10-16",
+    "download_url": "https://github.com/cgs123456/QAverify-releases/releases/download/v2.1.28/QAVerify-Setup-2.1.28-public.exe",
+    "file_size": 906736214,
+    "sha256": "a4d61bc2382feaaf7d6a5d8f03fc324e0fd01dac0a1fa7f7a9d16df394c8a6d2",
+    "release_date": "2026-10-25",
     "mandatory": false,
     "min_version": null,
-    "release_notes": "界面改版：设置抽屉与全局「控制台卡片」外观；上报记录带门店身份，看板多门店可分辨；修复题库整理页表单不同步与门店写入锁误判（偶发导入被拒）。建议所有用户更新。"
+    "release_notes": "本地优先转写引擎上线:说完即出字(毫秒级),断网仍可答题,安装包内置本地模型。复合长对话全链路修复:逐题拆分匹配、无主语追问继承语境、防主体漂移误配。同音听错自动救援与转写词表扩充。语音更早出答案。提词器长批次自动定位、拒答提示分场景。建议所有用户更新。"
   },
-  "signature": "t9u8HFoa8joMGlEssoUCJdOCsksUp4sUwTw_jVD2ZqaE_stPX6p1l4l2aL0wUtudeFiQm-zsrqVy0RZh48MiAg=="
+  "signature": "mHBuzaZkFYFCG7XOpjch1Z1hm2-J1IAkfiSgqOwspZGJErFRO5keGkgrGgXouXicbV74jddUldivmrXq98geAw=="
 }
